@@ -46,6 +46,6 @@ Este proyecto está bajo la licencia [MIT](LICENSE), lo que significa que puedes
 ---
 
 ## 📬 Contacto
-📧 **Email:** tuemail@ejemplo.com  
+📧 **Email:** aarteagaramos@correo.unicordoba.edu.co
 🌎 **Website:** [tuwebsite.com](https://tuwebsite.com)
 
