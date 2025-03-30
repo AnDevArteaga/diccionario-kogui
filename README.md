@@ -18,7 +18,7 @@ Este proyecto es una aplicación web desarrollada con **Next.js** que proporcion
 
 1️⃣ **Clona el repositorio:**
 ```sh
- git clone https://github.com/tuusuario/diccionario-kogui.git
+ git clone https://github.com/AnDevArteaga/diccionario-kogui.git
  cd diccionario-kogui
 ```
 
