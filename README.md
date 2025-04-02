@@ -18,7 +18,7 @@ Este proyecto es una aplicación web desarrollada con **Next.js** que proporcion
 
 1️⃣ **Clona el repositorio:**
 ```sh
- git clone https://github.com/tuusuario/diccionario-kogui.git
+ git clone https://github.com/AnDevArteaga/diccionario-kogui.git
  cd diccionario-kogui
 ```
 
@@ -46,6 +46,6 @@ Este proyecto está bajo la licencia [MIT](LICENSE), lo que significa que puedes
 ---
 
 ## 📬 Contacto
-📧 **Email:** tuemail@ejemplo.com  
+📧 **Email:** aarteagaramos@correo.unicordoba.edu.co
 🌎 **Website:** [tuwebsite.com](https://tuwebsite.com)
 
